@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 *.out
 *.pyc
 cmp_sense/amin.cpp
 .DS_Store
+=======
+*.out
+*.pyc
+cmp_sense/amin.cpp
+.DS_Store
+ContestHandlers/deps
+ContestHandlers/codeforces_submit.py
+>>>>>>> upstream/master
